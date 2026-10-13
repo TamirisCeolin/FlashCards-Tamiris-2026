@@ -66,6 +66,7 @@ footer {
 
 .cartao-verso { 
   transform: rotateY(180deg); 
+  text-align: center;
 } 
 
 .cartao:hover .cartao-interno { 
